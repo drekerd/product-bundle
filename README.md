@@ -25,7 +25,7 @@ http://localhost:3000/products
 It should show the home page for the products
 
 ## Test
-Start the application
+Run unit tests
 
 ```bash
 npm test
