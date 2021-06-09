@@ -1,0 +1,18 @@
+{
+  "data": {
+    "product": {
+      "name": "Asus laptop 15",
+      "price": 1309.00,
+      "imagePath": "/img/asus-laptop.png",
+      "description": "Asus laptop, 1TB SSD, 36 MB ram, Intel core i9, NVIDIA GeForce RTX 3050 Ti, very good, very fast very powerfull.",
+      "category": "laptop",
+      "secondCategory": "computers",
+      "recommendedBundleCategories": [
+        "monitor",
+        "keyboard",
+        "mouse"
+      ]
+    }
+  },
+  "status": "success"
+}

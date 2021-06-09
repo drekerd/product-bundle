@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Ducky One 2 - RGB",
+    "price": 109.00,
+    "imagePath": "/img/ducky-keyboard.png",
+    "description": "mechanical keyboard with red cherry. this is very good keyboard for gaming and also programming",
+    "category": "keyboard",
+    "secondCategory": "computer accessories",
+    "recommendedBundleCategories": [
+      "mapPad",
+      "usbHub",
+      "mouse"
+    ]
+  },
+  {
+    "name": "Logitech Mouse",
+    "price": 49.00,
+    "imagePath": "/img/logitech-mouse.png",
+    "description": "Very good mouse with both bluethood and wireless connections. Very ergonomic",
+    "category": "mouse",
+    "secondCategory": "computers accessories",
+    "recommendedBundleCategories": [
+      "mousePad",
+      "usbHub",
+      "keyboard"
+    ]
+  }
+]
