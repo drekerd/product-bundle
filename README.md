@@ -23,3 +23,10 @@ On your browser go to the address
 http://localhost:3000/products
 
 It should show the home page for the products
+
+## Test
+Start the application
+
+```bash
+npm test
+```
